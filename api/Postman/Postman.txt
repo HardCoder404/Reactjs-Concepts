@@ -1,0 +1,27 @@
+-------------------- Postman ------------------------
+
+Postman : * eska use basically hum , APIs testing k lie krte hai
+* used both frontend and backend developer
+
+GET, POST, PUT, PATCH, and DELETE are the five most common HTTP methods for retrieving from and sending data to a server.
+
+
+********** Axios *******
+we using Axios cuz.. it is more advantageous than fetch method 
+
+
+
+// These all are the requests of HTTP : 
+GET : It is used to read data or retrieve information about a resource
+POST : It is use to add new data  / store data 
+PUT : It is use to change the data or you can say make changes in previous data 
+DELETE : If something is useless in api you can delete it 
+
+
+
+
+
+
+// Post request  basically hum tab use krte hai..jab hume koi form submit krwana hota hai..mtlb ki koi form hai or hum chcahcte hai ki..user jab submit pe click kre toh..wo data backend me chla jaaye, POST request k through. 
+
+// Post Request hum ek geniune api pe hi lga sakte hia tabbhi work krega... like koi fake api pe work nahi krega... agar humne khud se koi api bnaya hai (ha api create v kia jata hia.. or aage whi krenge) toh usi me hum koi data post kr sakte hai ... or wo result show krega.
