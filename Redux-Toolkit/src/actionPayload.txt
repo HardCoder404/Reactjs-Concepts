@@ -1,0 +1,19 @@
+******* action.payload **********
+
+ye kya hota hai bhyia..ji ???
+passing parameter to action
+
+toh baisically, In Redux Toolkit, action.payload is a field that contains the data needed to update the application state. This data is important because it helps reducers determine how to modify the state.
+
+nahi aaya samjh haina haina .... 
+
+suno..to simple si baat hia..jaise tum useState hoook use krte the na..dicto whi hai.. let me show you how..
+const [color, setColor] = useState("black"); 
+
+esme.. jo starting me color ki value hai..wo black hogi..right?? so, now, ab hum 
+setColor("red") ab ase paas krde toh ..ab color ki value kya hojyga..?? red right !! so 
+basically hum ye kya  kr re hia.. ye action hi toh dere hia.. user ko.. ki red krna h ya black..
+
+
+same as action.payload, liek koi ek input box hai..wha maine likha red or submit pe dabya.. toh jse hi submit dabaunga...jo text color hai wo us color se badal jyga..jo maine iinput dia hia. 
+bs yhi krta h action.paylload. 
